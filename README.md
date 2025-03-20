@@ -1,9 +1,10 @@
 
 
 
-<br>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans-serif+Bold&pause=1000&color=FFFFFF&center=true&width=435&height=40&lines=Welcome)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans-serif+Bold&pause=1000&color=FFFFFF&center=true&width=435&height=40&lines=Welcome)](https://git.io/typing-svg)
+</div>
 
 ## Sobre mim
 
