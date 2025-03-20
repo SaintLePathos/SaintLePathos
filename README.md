@@ -14,20 +14,20 @@
 <br><br>
 
 ## Hard Skills
-
+<div>
   <img src="https://skillicons.dev/icons?i=php,java,cs"/>
   <img src="https://skillicons.dev/icons?i=html,css,js,python" />
     <img src="https://skillicons.dev/icons?i=git" />
+</div>
 
 
-<br>
-<br>
 
 ### Sistemas Operacionais
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 	![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
     	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<br> <br>
 
 ## 📊 Minhas Estatísticas
 
